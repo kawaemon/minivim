@@ -1,0 +1,6 @@
+#ifndef TYPINGGAME_MODERNIZE_H
+#define TYPINGGAME_MODERNIZE_H
+
+#define null NULL
+
+#endif // TYPINGGAME_MODERNIZE_H
